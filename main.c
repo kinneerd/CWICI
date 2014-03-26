@@ -14,7 +14,6 @@ static void readInstructions(FILE * fp);
 static void discardline(FILE * fp);
 static void execute();
 
-// main
 int main(int argc, char * argv[]){
     //First things first. Open the input file.
     FILE *fp;
