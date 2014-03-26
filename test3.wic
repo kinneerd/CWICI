@@ -1,0 +1,8 @@
+push 5
+pop A
+push A
+push A
+add
+pop B
+put B
+halt
